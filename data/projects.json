@@ -1,21 +1,21 @@
 [ {
-	"color": "m_project-color-2",
-	"images": [ {
-		"src": "images/ronnie-1.jpg"
+		"color": "m_project-color-4",
+		"images": [ {
+			"src": "images/welt-1.jpg"
+		}, {
+			"src": "images/welt-2.jpg"
+		}, {
+			"src": "images/welt-3.jpg"
+		} ],
+		"imagealt": "WELT News App",
+		"imagebutton": "Visit app store",
+		"imagehref": "https://itunes.apple.com/de/app/welt-edition-digitale-zeitung/id372746348?mt=8",
+		"figcaptions": {
+			"1": "<a class=\"f_anchor-inline\" href=\"https://itunes.apple.com/de/app/welt-edition-digitale-zeitung/id372746348?mt=8\">WELT News App</a>",
+			"2": "Frontend development for a hybrid app for Android and iOS using AngularJS, BEM and Karma",
+			"3": "/w many other devs for <a class=\"f_anchor-inline\" href=\"http://www.axelspringer.de/\">Axel Springer</a>"
+		}
 	}, {
-		"src": "images/ronnie-2.jpg"
-	}, {
-		"src": "images/ronnie-3.jpg"
-	} ],
-	"imagealt": "Earthworm Ronnie WebGL Game",
-	"imagebutton": "Visit store",
-	"imagehref": "https://chrome.google.com/webstore/detail/earthworm-ronnie/jongcofldijplcpnbdpagghchhdicoaa",
-	"figcaptions": {
-		"1": "<a class=\"f_anchor-inline\" href=\"https://chrome.google.com/webstore/detail/earthworm-ronnie/jongcofldijplcpnbdpagghchhdicoaa\">Earthworm Ronnie WebGL Game</a>",
-		"2": "HTML5 Game with Three.js (Chrome App, Firefox App)",
-		"3": "fun project for personal use"
-	}
-}, {
 	"color": "m_project-color-1",
 	"images": [ {
 		"src": "images/tt-1.jpg"
@@ -116,6 +116,23 @@
 		"3": "/w 1 backend developer for <a class=\"f_anchor-inline\" href=\"http://geildanke.com/\">my own company</a>"
 	}
 }, {
+	"color": "m_project-color-4",
+	"images": [ {
+		"src": "images/audi-3.jpg"
+	}, {
+		"src": "images/audi-2.jpg"
+	}, {
+		"src": "images/audi-1.jpg"
+	} ],
+	"imagealt": "Microsite for Audi S1",
+	"imagebutton": "Visit website",
+	"imagehref": "http://microsites.audi.com/s1/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://microsites.audi.com/s1/\">microsites.audi.com/s1/</a>",
+		"2": "Frondend Development, HTML5 canvas and responsive animations",
+		"3": "/w 5 others for <a class=\"f_anchor-inline\" href=\"http://www.razorfish.de/\">Razorfish</a>"
+	}
+}, {
 	"color": "m_project-color-2",
 	"images": [ {
 		"src": "images/lisht-2.jpg"
@@ -150,23 +167,6 @@
 		"3": "/w 1 other for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
 	}
 }, {
-	"color": "m_project-color-4",
-	"images": [ {
-		"src": "images/audi-3.jpg"
-	}, {
-		"src": "images/audi-2.jpg"
-	}, {
-		"src": "images/audi-1.jpg"
-	} ],
-	"imagealt": "Microsite for Audi S1",
-	"imagebutton": "Visit website",
-	"imagehref": "http://microsites.audi.com/s1/",
-	"figcaptions": {
-		"1": "<a class=\"f_anchor-inline\" href=\"http://microsites.audi.com/s1/\">microsites.audi.com/s1/</a>",
-		"2": "Frondend Development, HTML5 canvas and responsive animations",
-		"3": "/w 5 others for <a class=\"f_anchor-inline\" href=\"http://www.razorfish.de/\">Razorfish</a>"
-	}
-}, {
 	"color": "m_project-color-3",
 	"images": [ {
 		"src": "images/kolarski-1.jpg"
@@ -182,6 +182,23 @@
 		"1": "<a class=\"f_anchor-inline\" href=\"http://www.kolarski-re.com/\">kolarski-re.com</a>",
 		"2": "Wordpress theme, responsive web development",
 		"3": "/w 1 other for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
+	}
+}, {
+	"color": "m_project-color-2",
+	"images": [ {
+		"src": "images/ronnie-1.jpg"
+	}, {
+		"src": "images/ronnie-2.jpg"
+	}, {
+		"src": "images/ronnie-3.jpg"
+	} ],
+	"imagealt": "Earthworm Ronnie WebGL Game",
+	"imagebutton": "Visit store",
+	"imagehref": "https://chrome.google.com/webstore/detail/earthworm-ronnie/jongcofldijplcpnbdpagghchhdicoaa",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"https://chrome.google.com/webstore/detail/earthworm-ronnie/jongcofldijplcpnbdpagghchhdicoaa\">Earthworm Ronnie WebGL Game</a>",
+		"2": "HTML5 Game with Three.js (Chrome App, Firefox App)",
+		"3": "fun project for personal use"
 	}
 }, {
 	"color": "m_project-color-3",
